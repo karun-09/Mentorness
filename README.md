@@ -1,2 +1,1 @@
-# Mentorness
-Projects implemented during internship at Mentorness
+Projects implemented during an internship at Mentorness
