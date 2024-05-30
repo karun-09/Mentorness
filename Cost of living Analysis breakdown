@@ -1,0 +1,57 @@
+Cost of Living Analysis with Tableau
+
+1. Introduction
+This project explores economic indicators related to the cost of living in cities and countries worldwide. By utilizing Power BI or Tableau, we will analyze a dataset from Numbeo, which includes various expenses. The tasks include data cleaning, exploratory analysis, and visualization. This project aims to enhance skills in data analysis, data visualization, and interpretation of economic indicators.
+
+2. Dataset Description
+The dataset used in this project is sourced from Numbeo, which provides comprehensive information on the cost of living. The dataset includes the following features:
+- **City**: The name of the city.
+- **Country**: The country where the city is located.
+- **Cost of Living Index**: An index representing the relative cost of living.
+- **Rent Index**: An index representing the cost of renting apartments.
+- **Groceries Index**: An index representing the cost of groceries.
+- **Restaurant Price Index**: An index representing the cost of dining out.
+- **Local Purchasing Power Index**: An index representing the relative purchasing power of the local population.
+- **Other Miscellaneous Expenses**: Additional costs such as transportation, utilities, etc.
+
+3. Data Preparation
+1. **Data Collection**: Import the dataset from Numbeo.
+   - File format: CSV, Excel, or direct API access.
+2. **Data Cleaning**:
+   - Handling missing values.
+   - Removing duplicates.
+   - Standardizing data formats.
+3. **Data Transformation**:
+   - Creating additional columns if needed (e.g., continent based on the country).
+   - Normalizing or scaling numerical values for better comparison.
+
+4. Exploratory Data Analysis (EDA)
+1. **Descriptive Statistics**:
+   - Summary statistics for numerical features.
+   - Distribution analysis of indices.
+2. **Correlation Analysis**:
+   - Correlation matrix to understand relationships between different indices.
+3. **Geographical Analysis**:
+   - Mapping cities and countries to visualize geographical distribution of the cost of living indices.
+
+5. Data Visualization
+Using Power BI or Tableau:
+1. **Cost of Living Overview**:
+   - Bar charts to compare the cost of living index across different cities.
+   - Line charts showing trends over time if historical data is available.
+2. **Category-wise Breakdown**:
+   - Pie charts or stacked bar charts to show the distribution of expenses (rent, groceries, restaurants, etc.) in selected cities.
+3. **Geographical Maps**:
+   - Choropleth maps to represent the cost of living index by country or city.
+   - Interactive maps with drill-down capabilities to explore specific regions.
+4. **Comparative Analysis**:
+   - Scatter plots to compare the cost of living with purchasing power.
+   - Bubble charts to show the relationship between rent index and living cost index.
+
+6. Conclusion
+Summarize key findings:
+- Highlight cities or countries with the highest and lowest cost of living.
+- Discuss any patterns or trends observed in the data.
+- Reflect on the implications of the cost of living indices on local economies and populations.
+- Suggest potential areas for further research or analysis.
+
